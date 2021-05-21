@@ -65,7 +65,7 @@ class Home extends Component {
               <h1 className="text-center">
                 <strong>(React) Google Books Search</strong>
               </h1>
-              <h2 className="text-center">Search for and Save Books of Interest.</h2>
+              <p className="text-center mt-5 about">Find yourself a nice new book to read and either view it or save it to your "read later" lists. Time to get book smart!</p>
             </Jumbotron>
           </Col>
           <Col size="md-12">
