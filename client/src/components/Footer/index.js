@@ -5,7 +5,7 @@ function Footer() {
     <footer>
       <hr />
       <p className="pull-right">
-        <i className="fab fa-github" /> Google Book Search
+        Google Book Search
       </p>
     </footer>
   );
